@@ -10,3 +10,11 @@ a{
     color: blueviolet;
     font-size: 29px;
 }
+a:hover{
+    color: red;
+    font-size: 40px;
+}
+a:active{
+    color: green;
+    font-size: 35px;
+}
