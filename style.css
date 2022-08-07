@@ -6,6 +6,9 @@ p{
     color: blue;
     font-size: 30px;
 }
+li{
+    color: red;
+}
 a{
     color: blueviolet;
     font-size: 29px;
@@ -17,4 +20,25 @@ a:hover{
 a:active{
     color: green;
     font-size: 35px;
+}
+.red{
+    color: red;
+}
+.blue{
+    color:blue
+}
+.green{
+    color: green;
+}
+.style1{
+    color: blueviolet;
+}
+.style2{
+    color: aquamarine;
+}
+.style3{
+    color: aqua;
+}
+.style4{
+    color: burlywood;
 }
